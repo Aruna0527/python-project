@@ -16,3 +16,6 @@
 3. To create meaningful visualizations that clearly explain the story behind the data
 
 4. To provide actionable insights and recommendations from the analysis
+
+# Data Pre-processing
+*  **The analysis journey began with data preprocessing, where I meticulously cleaned the 'Uncleaned_employees_final_dataset'. Duplicate rows were eliminated, and irrelevant data types in numeric columns were filtered out using Python.**
