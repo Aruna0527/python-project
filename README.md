@@ -19,3 +19,28 @@
 
 # Data Pre-processing
 *  **The analysis journey began with data preprocessing, where I meticulously cleaned the 'Uncleaned_employees_final_dataset'. Duplicate rows were eliminated, and irrelevant data types in numeric columns were filtered out using Python.**
+# Note For Kind of Analysis to be done
+**Type of Analysis**
+
+**Descriptive Analysis (summarizing the dataset)**
+
+ Analyzes historical data to understand what has happened in
+  the workforce over a specific period.
+**Diagnostic Analysis (finding reasons behind patterns)**
+
+Identifies the causes of success of failure within a workforce,
+which can be used to correct failures and boost business performance.
+
+**Predictive Analysis (optional if forecasting required using basic stats)**
+
+Uses a combination of historical data to predict the likelihood
+of future outcomes based on past data so that businesses can
+make accurate forecasts.
+**Prescriptive Analysis (recommendations for business decisions)**
+
+Relies on historical data. It is typically used after
+predictive analysis to plan the most suitable course of
+ action for the organization to meet its goals.
+
+
+
