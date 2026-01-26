@@ -26,6 +26,7 @@
 
  Analyzes historical data to understand what has happened in
   the workforce over a specific period.
+  
 **Diagnostic Analysis (finding reasons behind patterns)**
 
 Identifies the causes of success of failure within a workforce,
@@ -36,6 +37,7 @@ which can be used to correct failures and boost business performance.
 Uses a combination of historical data to predict the likelihood
 of future outcomes based on past data so that businesses can
 make accurate forecasts.
+
 **Prescriptive Analysis (recommendations for business decisions)**
 
 Relies on historical data. It is typically used after
