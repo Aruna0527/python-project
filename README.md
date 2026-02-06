@@ -22,23 +22,34 @@
 # Note For Kind of Analysis to be done
 **Type of Analysis**
 
-**Descriptive Analysis (summarizing the dataset)**
+ **Descriptive Analysis (summarizing the dataset)**
 
- Analyzes historical data to understand what has happened in
-  the workforce over a specific period.
-  
+    Descriptive analytics can provide HR teams with valuable
+    insights into employee performance, engagement, and retention.
+      
+    For example, by analyzing data from employee surveys, HR teams
+    can identify trends and patterns in employee satisfaction andengagement. 
+       
+    This information can then be used to make improvements to the workplace and address any issues that may be negatively 
+    impacting employee morale.
+
 **Diagnostic Analysis (finding reasons behind patterns)**
+    
+    If an organization's employee turnover rate has increased, diagnostic analytics can help HR teams identify the reasons behind this trend.
+    
+    By analyzing data from exit interviews, performance evaluations, and other sources, HR teams can gain insights into why employees are leaving and what can be done to improve retention.
 
-Identifies the causes of success of failure within a workforce,
-which can be used to correct failures and boost business performance.
+**Predictive Analysis (optional if forecasting required using basic steps)**
 
-**Predictive Analysis (optional if forecasting required using basic stats)**
+    Predictive analytics can be incredibly valuable for HR teams, as it allows them to anticipate potential issues and take proactive measures to address them. 
 
-Uses a combination of historical data to predict the likelihood
-of future outcomes based on past data so that businesses can
-make accurate forecasts.
+    By analyzing data from employee surveys and performance evaluations, HR teams can identify employees who are at risk of leaving and take steps to improve their job satisfaction and engagement.
 
 **Prescriptive Analysis (recommendations for business decisions)**
+
+    Prescriptive analytics can help HR teams make more informed decisions about everything from hiring and onboarding to employee development and retention. 
+    
+    By analyzing data from a variety of sources, HR teams can gain insights into the most effective strategies for managing their workforce and achieving their goals.
 
 Relies on historical data. It is typically used after
 predictive analysis to plan the most suitable course of
